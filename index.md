@@ -34,4 +34,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
+# Stephan Zapodeanu's First CS193 Homework
+
+- How helpful the TAs are.
+- How much useful information they will pass on to us.
+- How interesting the TAs are.
+
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
